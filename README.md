@@ -1,4 +1,4 @@
-# ⚡ Energy Demand Prediction using Neural Networks
+# ⚡ Energy Demand Prediction using Neural Networks 
 
 This project builds a **Neural Network regression model** to predict hourly electricity demand using real-world weather data.
 
